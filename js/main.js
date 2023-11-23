@@ -7,7 +7,7 @@ const operation_min = document.getElementById('operation_min')
 const operation_mno = document.getElementById('operation_mno')
 const operation_dil = document.getElementById('operation_dil')
 let sum = 0
-let action = '+'
+let action = ''
 
 
 operation_plu.onclick = function() {
